@@ -1,4 +1,6 @@
-# cMLr3asK
+# Passenger Counter Website
+
+This website is a simple tool for counting the number of passengers that enter a vehicle. It allows you to increment the count and save previous entries.
 
 Quick start:
 
@@ -7,15 +9,17 @@ $ npm install
 $ npm start
 ````
 
-Head over to https://vitejs.dev/ to learn more about using vite
-## About Scrimba
 
-At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
-If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding, regardless of where they live and the size of their wallets 🎉
-The Frontend Developer Career Path aims to teach you everything you need to become a Junior Developer, or you could take a deep-dive with one of our advanced courses 🚀
 
-- [Our courses](https://scrimba.com/allcourses)
-- [The Frontend Career Path](https://scrimba.com/learn/frontend)
-- [Become a Scrimba Pro member](https://scrimba.com/pricing)
+## Installation
+
+To use this website, simply download the files from the GitHub repository or clone the repository using the following command:
+git clone https://github.com/sidowxyz/passenger-count.git 
+
+Then open the `index.html` file in your [web browser](poe://www.poe.com/_api/key_phrase?phrase=web%20browser&prompt=Tell%20me%20more%20about%20web%20browser.) to access the website.
+
+## Usage
+
+To increment the [passenger count](poe://www.poe.com/_api/key_phrase?phrase=passenger%20count&prompt=Tell%20me%20more%20about%20passenger%20count.), click the "INCREMENT" button. To save the current count, click the "SAVE" button. The website will display a list of all previous counts below the buttons.
 
 Happy Coding!
